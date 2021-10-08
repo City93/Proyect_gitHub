@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+div .form{
+    height: 500px;
+    width: 300px;
+    background-color: palegreen;
+}
